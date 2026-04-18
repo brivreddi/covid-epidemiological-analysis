@@ -14,7 +14,7 @@ Do COVID-19 health outcomes vary significantly across Indian states, and if so, 
 
 ## Executive Summary
 
-Analysis of cumulative COVID-19 surveillance data across 36 Indian states and Union Territories reveals substantial geographic variation in health outcomes. Case Fatality Rate (CFR) varied 4-fold across major states (0.5% to 2.1%), with similar patterns observed in recovery rates. This variation, despite exposure to the same pathogen during the same time period, suggests that healthcare system capacity, testing strategies, and public health interventions significantly influenced population-level outcomes beyond the disease itself.
+Analysis of cumulative COVID-19 surveillance data across Indian states and Union Territories reveals substantial geographic variation in health outcomes. Case Fatality Rate (CFR) varied 4-fold across major states (0.5% to 2.1%), with similar patterns observed in recovery rates. This variation, despite exposure to the same pathogen during the same time period, suggests that healthcare system capacity, testing strategies, and public health interventions significantly influenced population-level outcomes beyond the disease itself.
 
 ---
 
